@@ -1,0 +1,6 @@
+pytorch-lightning
+transformers
+pandas
+hydra-core
+omegaconf
+tensorboard

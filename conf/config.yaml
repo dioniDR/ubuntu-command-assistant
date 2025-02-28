@@ -1,0 +1,8 @@
+defaults:
+  - model: bert_commands
+  - training: ubuntu_assistant
+  - _self_
+
+project:
+  name: "ubuntu-assistant"
+  description: "Asistente de comandos Ubuntu"
